@@ -10,7 +10,7 @@ This project analyzes the crime dataset of States in the United States from 1975
 
 Link to dataset: https://www.kaggle.com/datasets/marshallproject/crime-rates
 
-###Data Description
+### Data Description
 This dataset provides information on violent crime rates in American cities between 1957 and 2015. It consists of 2829 rows and 15 columns. The columns include eport_year, agency_code, agency_jurisdiction, population, violent_crimes, homicides, rapes, assaults, robberies, months_reported, crimes_percapita, homicides_percapita, rapes_percapita, assaults_percapita, and robberies_percapita.
 
 ## Tools Used
