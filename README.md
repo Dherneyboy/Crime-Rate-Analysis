@@ -19,8 +19,6 @@ Programming Language: Python
 
 Libraries: Pandas, Numpy, Matplotlib, and seaborn.
 
-Processes: Exploratory Data Analysis (EDA), and Data Visualization.
-
 ## Insight
 •	Chicago, IL , and Los Angeles, CA both experienced an increase from 1970 to 1990 after which they experienced a decrease in the violent crime rate from 1990 to 2010.
 
